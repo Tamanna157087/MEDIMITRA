@@ -5,14 +5,6 @@ A full-stack hospital management system built with **React (Vite) + Node.js/Expr
 ## 🌐 Live Demo
 **Frontend:** [medimitra-kohl.vercel.app](https://medimitra-kohl.vercel.app/login)
 
-## 👥 Team
-Built as a team project, with equal contribution across the whole project (frontend, backend, database and deployment).
-
-| Name | GitHub |
-|---|---|
-| Tamanna Goyal | [@Tamanna157087](https://github.com/Tamanna157087) |
-| Ayushi Choudhary | [@Ayushi-Choudhary22](https://github.com/Ayushi-Choudhary22) · [original repo](https://github.com/Ayushi-Choudhary22/MediMitra) |
-
 ## 📁 Project Structure
 ```
 medimitra/
@@ -153,3 +145,6 @@ Open **http://localhost:5173**
 <!-- ![Login](screenshots/login.png) -->
 <!-- ![Receptionist Dashboard](screenshots/receptionist.png) -->
 <!-- ![Doctor Dashboard](screenshots/doctor.png) -->
+
+---
+Developed together with [Ayushi Choudhary](https://github.com/Ayushi-Choudhary22).
